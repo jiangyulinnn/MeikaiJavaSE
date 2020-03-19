@@ -11,5 +11,6 @@ public class VarDemo {
         System.out.println("请输入你需要购买的数量：");
         int number = input.nextInt();
         System.out.println("剩余库存为"+(count-number));
+
     }
 }
